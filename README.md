@@ -7,7 +7,7 @@
     </div>
     <div align=center>
         <a href="https://twitter.com/AmAPlayeer"><img src="https://img.shields.io/badge/Twitter-0077b5?style=flat&logo=twitter" alt="Twitter" /></a>
-       
+       </div>
     </div>
 
 
