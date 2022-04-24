@@ -7,10 +7,7 @@
     </div>
     <div align=center>
         <a href="https://twitter.com/AmAPlayeer"><img src="https://img.shields.io/badge/Twitter-0077b5?style=flat&logo=twitter" alt="Twitter" /></a>
-        <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b"><img src="https://img.shields.io/badge/Discord-494949?style=flat&logo=discord" alt="Discord" /></a>
-        <a href="https://stackoverflow.com/users/11837259/ahmed-fathy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-        <a href="https://www.quora.com/profile/Ahmed-Fathy-616"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a>
-        <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+       
     </div>
 
 
