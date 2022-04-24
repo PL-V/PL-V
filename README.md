@@ -7,7 +7,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently Big Data and Data Science Student.\
 🌱 &nbsp;I'm on track for learning more about Malware analysis, Windows Internals, Exploit Development.\
-✍️ &nbsp;In my free time, I do code malwares for fun and learning.\
+✍️ &nbsp;In my free time, I do code malwares for fun and learning.
 
 
 
